@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Filmes</string>
+    <string name="add_btn">add</string>
+    <string name="gg">gg</string>
+    <string name="film_name">Joker</string>
+    <string name="film_year">2019</string>
+    <string name="film_description">Cool</string>
+    <string name="enter_film_name">Enter film name</string>
+    <string name="search">Buscar</string>
+    <string name="film_name_info">Título</string>
+    <string name="film_year_info">Ano de Lançamento</string>
+    <string name="hh">hh</string>
+    <string name="director">Direção</string>
+    <string name="director_info">Huy Huyovich</string>
+    <string name="enter_name">Buscar Filmes</string>
+    <string name="go">Buscar</string>
+    <string name="plot">Sinopse</string>
+    <string name="plot_info">Teste</string>
+    <string name="country">País </string>
+    <string name="country_info">Teste</string>
+    <string name="website">Website:</string>
+    <string name="website_info">Teste</string>
+    <string name="runtime">Tempo de Exibição</string>
+    <string name="runtime_info">Teste</string>
+    <string name="string_back">Voltar</string>
+
+
+
+</resources>
